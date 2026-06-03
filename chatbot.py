@@ -352,7 +352,7 @@ st.markdown(
 
 st.markdown("""
 <div class="footer">
-🌟 Built with Groq + LangChain + Streamlit <br>
+
 ⚡ Fast · Smart · Professional AI Assistant
 </div>
 """, unsafe_allow_html=True)
